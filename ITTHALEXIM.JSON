@@ -1,0 +1,182 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2023-05-24T16:49:35.096-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "JGraph.Draw"
+				},
+				{
+					"PackageIdentifier" : "Canva.Canva"
+				},
+				{
+					"PackageIdentifier" : "Termius.Termius"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2019.Professional"
+				},
+				{
+					"PackageIdentifier" : "voidtools.Everything"
+				},
+				{
+					"PackageIdentifier" : "Foxit.FoxitReader"
+				},
+				{
+					"PackageIdentifier" : "Tonec.InternetDownloadManager"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Azure.StorageEmulator"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier" : "Notepad++.Notepad++"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "RaspberryPiFoundation.RaspberryPiImager"
+				},
+				{
+					"PackageIdentifier" : "Synology.DriveClient"
+				},
+				{
+					"PackageIdentifier" : "TeamViewer.TeamViewer"
+				},
+				{
+					"PackageIdentifier" : "JAMSoftware.TreeSize.Free"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier" : "RARLab.WinRAR"
+				},
+				{
+					"PackageIdentifier" : "Balena.Etcher"
+				},
+				{
+					"PackageIdentifier" : "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier" : "ApacheFriends.Xampp.8.2"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+				},
+				{
+					"PackageIdentifier" : "MiniTool.PartitionWizard.Free"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.SQLServerManagementStudio"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.5"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WebDeploy"
+				},
+				{
+					"PackageIdentifier" : "Samsung.DeX"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.10"
+				},
+				{
+					"PackageIdentifier" : "Synology.ActiveBackupForBusinessAgent"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "Skillbrains.Lightshot"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.3_1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+				},
+				{
+					"PackageIdentifier" : "DBBrowserForSQLite.DBBrowserForSQLite"
+				},
+				{
+					"PackageIdentifier" : "Telegram.TelegramDesktop"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
+				},
+				{
+					"PackageIdentifier" : "Google.Drive"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.SQLServer2012NativeClient"
+				},
+				{
+					"PackageIdentifier" : "DaiyuuNobori.Win10Pcap"
+				},
+				{
+					"PackageIdentifier" : "PuTTY.PuTTY"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "VMware.WorkstationPlayer"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
+				},
+				{
+					"PackageIdentifier" : "CodeSector.TeraCopy"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.3_1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.3_1"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.4.10173"
+}
